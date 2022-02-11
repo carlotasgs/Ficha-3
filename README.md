@@ -10,7 +10,7 @@ A ContaBancária não existe sem o Banco. O Banco possui a ContaBancária.
 
 ![This is an image](https://github.com/carlotasgs/Ficha-3/blob/main/Diagrama.png)
 
-### [Eclipse:]
+### - [ ] Eclipse: :tada:
 
 ***Classes:***
 1. ContaBancaria :moneybag:
