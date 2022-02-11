@@ -2,16 +2,16 @@
 
 ## Descrição 
 
-### Diagrama:
+### [ ] Diagrama:
 
 A Casa só existe se existir o Banco (porque tem como objetivo ser vendida).
-As contasBancárias não existem sem o Banco.
+A ContaBancária não existe sem o Banco. O Banco possui a ContaBancária.
 
 ![This is an image](https://github.com/carlotasgs/Ficha-3/blob/main/Diagrama.png)
 
 ### Eclipse:
 
-Classes:
+***Classes:***
 - ContaBancaria
 - Banco
 - Casa
