@@ -2,7 +2,7 @@
 
 ## Descrição :speech_balloon:
 
-### [Diagrama:]
+### - [ ] Diagrama: :tada:
 
 A Casa só existe se existir o Banco (porque tem como objetivo ser vendida).
 
